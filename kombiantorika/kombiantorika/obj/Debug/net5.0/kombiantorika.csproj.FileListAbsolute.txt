@@ -1,0 +1,16 @@
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\obj\Debug\net5.0\kombiantorika.csprojAssemblyReference.cache
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\obj\Debug\net5.0\kombiantorika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\obj\Debug\net5.0\kombiantorika.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\obj\Debug\net5.0\kombiantorika.AssemblyInfo.cs
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\obj\Debug\net5.0\kombiantorika.csproj.CoreCompileInputs.cache
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\bin\Debug\net5.0\kombiantorika.exe
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\bin\Debug\net5.0\kombiantorika.deps.json
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\bin\Debug\net5.0\kombiantorika.runtimeconfig.json
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\bin\Debug\net5.0\kombiantorika.runtimeconfig.dev.json
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\bin\Debug\net5.0\kombiantorika.dll
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\bin\Debug\net5.0\ref\kombiantorika.dll
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\bin\Debug\net5.0\kombiantorika.pdb
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\obj\Debug\net5.0\kombiantorika.dll
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\obj\Debug\net5.0\ref\kombiantorika.dll
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\obj\Debug\net5.0\kombiantorika.pdb
+C:\Users\anteu\source\repos\kombiantorika\kombiantorika\obj\Debug\net5.0\kombiantorika.genruntimeconfig.cache
